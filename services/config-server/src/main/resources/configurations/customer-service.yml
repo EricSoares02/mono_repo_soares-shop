@@ -5,7 +5,7 @@ spring:
       password: soares
       host: localhost
       port: 27017
-      database: costumer
+      database: customer
       authentication-database: admin
 server:
   port: 8090
