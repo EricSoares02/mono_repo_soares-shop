@@ -11,8 +11,8 @@
 	<groupId>com.soares</groupId>
 	<artifactId>customer</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>costumer</name>
-	<description>costumer-service</description>
+	<name>customer</name>
+	<description>customer-service</description>
 	<url/>
 	<licenses>
 		<license/>
@@ -64,7 +64,7 @@
 		</dependency>
 		<dependency>
 			<groupId>com.soares</groupId>
-			<artifactId>costumer</artifactId>
+			<artifactId>customer</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
 	</dependencies>
